@@ -1,6 +1,3 @@
-حتماً؛ این نسخه **فقط یک فایل `README.md` کامل**ه و مستقیم می‌تونی کپی کنی:
-
-````md
 # Nava Weather
 
 A modern and premium weather application built with Next.js, React, TypeScript, and Tailwind CSS.
@@ -334,4 +331,7 @@ This project is created for learning, experimentation, portfolio development, an
 ---
 
 Built with ❤️ by Sina Aghajani
-````
+
+```
+
+```
