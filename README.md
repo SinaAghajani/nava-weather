@@ -333,5 +333,3 @@ This project is created for learning, experimentation, portfolio development, an
 Built with ❤️ by Sina Aghajani
 
 ```
-
-```
